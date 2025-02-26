@@ -1,0 +1,47 @@
+body{
+    background: #418dd0;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.container{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    width: 500px;
+    height: 90vh;
+    background: white;
+    border-radius: 50px;
+
+ 
+}
+
+.perfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    
+}
+
+.centraliza{
+    text-align: center;
+}
+
+.linha{
+    width: 400px;
+}
+
+.botao{
+    padding: 5px;
+    width: 200px;
+    height: 35px;
+    margin: 0 auto;
+    border-radius: 5px;
+    color:white ;
+    font-size: 18px;
+    background: linear-gradient( white, #3183C7) ;
+}
